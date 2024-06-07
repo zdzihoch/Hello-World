@@ -1,2 +1,2 @@
-# Hello-World
-First Steps On GitHub
+# LET ME INTRODUCE...
+So, i'm a guy who likes programing, i use html, css, js and ocasionally php to make my creations.
