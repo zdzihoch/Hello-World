@@ -1,2 +1,2 @@
 # LET ME INTRODUCE...
-So, i'm a guy who likes programing, i use html, css, js and ocasionally php to make my creations.
+So, i'm a guy who likes programing, i use HTML, CSS, JS and ocasionally PHP to make my creations.
